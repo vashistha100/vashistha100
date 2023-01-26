@@ -1,7 +1,7 @@
 Hi 👋 My name is Manish Sharma
 ==============================
 
-Flutter Developer
+Flutter Developer , Web Developer  
 -----------------
 
 *   🌍  I'm based in Delhi , India
