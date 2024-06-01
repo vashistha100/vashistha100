@@ -1,7 +1,7 @@
 Hi 👋 My name is Manish Sharma
 ==============================
 
-Flutter Developer   
+Web/App developer  
 -----------------
 
 *   🌍  I'm based in Delhi , India
@@ -34,7 +34,7 @@ Flutter Developer
 
 <a href="http://www.github.com/vashistha100"><img src="https://github-readme-stats.vercel.app/api?username=vashistha100&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Manish Sharma's GitHub stats" /></a>
 
-<a href="http://www.github.com/vashistha100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NikChhillar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/vashistha100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vashistha100&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/vashistha100"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vashistha100&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
